@@ -2,7 +2,7 @@
 
 - Used it understand and internalize css selectors and specificity
 
-- Live URL here: https://fem-four-card-feature-section-umber.vercel.app/
+- Live URL here: https://fem-four-card-feature-section.thecodingarchi.vercel.app/
 
 # Frontend Mentor - Four card feature section
 
