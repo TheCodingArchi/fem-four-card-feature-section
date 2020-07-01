@@ -1,3 +1,9 @@
+# My Attempt At This  Frontend Mentor Challenge
+
+- Used it understand and internalize css selectors and specificity
+
+- Live URL here: https://fem-four-card-feature-section-umber.vercel.app/
+
 # Frontend Mentor - Four card feature section
 
 ![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
